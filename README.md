@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the Azure Stack Azure Bridge Client API (version 2017-06-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/azurestack-AzureStack/2017-06-01/swagger.json<br/>
-Generated at: 2019-05-07T17:37:37+03:00
+Generated at: 2019-06-11T18:13:44+03:00
 
 ## API Description
 
